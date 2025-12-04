@@ -98,9 +98,9 @@ Alongside software development and photography, I volunteer as a coach and board
 - 📢 **Community Engagement** → Flyers and visuals that boosted attendance and participation  
 
 <p align="center">
-  <img src="assets/sample_logo.png" alt="Sample Logo" width="200"/> 
-  <img src="assets/sample_trainingguide.png" alt="Training Guide" width="200"/>
-  <img src="assets/sample_flyer.png" alt="Tryout Flyer" width="200"/>
+  <img src="https://github.com/michaelgumtow/coaching-projects/blob/main/BYBS%20Logo%20Stickers/BYBS-Softball-1.png" alt="Sample Logo" width="200"/> 
+  <img src="https://github.com/michaelgumtow/coaching-projects/blob/main/BYBS%20Batters%20Checklist.pdf" alt="Training Guide" width="200"/>
+  <img src="https://github.com/michaelgumtow/coaching-projects/blob/main/Scorpions%20Try%20Outs%201.jpeg" alt="Tryout Flyer" width="200"/>
 </p>
 
 👉 [View my Coaching Creative Portfolio](https://github.com/michaelgumtow/coaching-projects)
