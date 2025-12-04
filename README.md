@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Michael Gumtow
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/michaelgumtow/michaelgumtow/main/assets/IMG_4757.jpeg" alt="Michael Gumtow in a Kayak at Sunset on Firefly Lake" width="100%" />
+  <img src="https://raw.githubusercontent.com/michaelgumtow/michaelgumtow/main/assets/IMG_4757.jpeg" alt="Michael Gumtow in a Kayak at Sunset on Firefly Lake" width="60%" />
 </p>
 
 <h1 align="center">Developer • Educator • Photographer • Coach 
