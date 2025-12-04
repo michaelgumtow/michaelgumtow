@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Michael Gumtow
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/michaelgumtow/michaelgumtow/main/assets/header_banner.jpg" alt="Astrophotography banner by Michael Gumtow" width="100%" />
-</p>
+
 
 <h1 align="center">Developer • Educator • Photographer • Coach 
 <br>
@@ -69,6 +67,11 @@ In addition, I serve on the Web and Software Development Advisory Board for Mora
 I give back to my local community as a board member and coach for the Berlin Youth Baseball and Softball organization, and as an assistant coach for the Wisconsin Scorpions fastpitch travel ball team. When I’m not coding or coaching, you’ll usually find me behind a camera lens, focusing on wildlife, landscapes, astrophotography, and creating content that inspires curiosity for the outdoors.
 
 ## 📷 Photography & Content Creation Tools  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/michaelgumtow/michaelgumtow/main/assets/header_banner.jpg" alt="Astrophotography banner by Michael Gumtow" width="100%" />
+  - Portfolio / Prints: **[big-bear-photo.com](https://www.big-bear-photo.com/)**
+</p>
 
 ### 📸 Cameras  
 ![Canon R7](https://img.shields.io/badge/Canon-R7-1a1b26?style=for-the-badge&labelColor=565f89&color=7aa2f7)  ![Canon M50](https://img.shields.io/badge/Canon-M50-1a1b26?style=for-the-badge&labelColor=565f89&color=7aa2f7)  ![Canon T7i](https://img.shields.io/badge/Canon-T7i-1a1b26?style=for-the-badge&labelColor=565f89&color=7aa2f7)  ![Canon 6D MkII](https://img.shields.io/badge/Canon-6D_MkII-1a1b26?style=for-the-badge&labelColor=565f89&color=7aa2f7)  ![Canon 60D](https://img.shields.io/badge/Canon-60D-1a1b26?style=for-the-badge&labelColor=565f89&color=7aa2f7)  
