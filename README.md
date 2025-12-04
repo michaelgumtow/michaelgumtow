@@ -88,6 +88,13 @@ I give back to my local community as a board member and coach for the Berlin You
 ### 🖌️ Editing Software  
 ![Lightroom](https://img.shields.io/badge/Adobe-Lightroom-1a1b26?style=for-the-badge&labelColor=565f89&color=e0af68)  ![Photoshop](https://img.shields.io/badge/Adobe-Photoshop-1a1b26?style=for-the-badge&labelColor=565f89&color=e0af68)  ![Express](https://img.shields.io/badge/Adobe-Express-1a1b26?style=for-the-badge&labelColor=565f89&color=e0af68)  ![DaVinci Resolve](https://img.shields.io/badge/DaVinci-Resolve-1a1b26?style=for-the-badge&labelColor=565f89&color=e0af68)  ![Topaz Labs](https://img.shields.io/badge/Topaz-Labs-1a1b26?style=for-the-badge&labelColor=565f89&color=e0af68)  
 
+## 🌐 Find me around the web
+- Portfolio / Prints: **[big-bear-photo.com](https://www.big-bear-photo.com/)**
+- YouTube: **[@bigbearoutthere](https://www.youtube.com/@BigBearOutThere)**  
+- Instagram: **[@bigbearoutthere](https://www.instagram.com/bigbearoutthere/)**  
+- Flickr: **[@bigbearoutthere](https://www.flickr.com/photos/michaelcgumtow/)** 
+- LinkedIn: **[/in/michael-gumtow-08131228](https://www.linkedin.com/in/michael-gumtow-08131228/)** 
+
 ## 🥎 Coaching & Creative Projects  
 
 Alongside software development and photography, I volunteer as a coach and board member for **youth softball & baseball programs**. Over the years, I’ve created resources and visuals to help young athletes grow and to promote community sports:  
@@ -105,14 +112,6 @@ Alongside software development and photography, I volunteer as a coach and board
 </p>
 
 👉 [View my Coaching Creative Portfolio](https://github.com/michaelgumtow/coaching-projects)
-
-## 🌐 Find me around the web
-
-- LinkedIn: **[/in/michael-gumtow-08131228](https://www.linkedin.com/in/michael-gumtow-08131228/)** 
-- Portfolio / Prints: **[big-bear-photo.com](https://www.big-bear-photo.com/)** 
-- YouTube: **[@bigbearoutthere](https://www.youtube.com/@BigBearOutThere)**  
-- Instagram: **[@bigbearoutthere](https://www.instagram.com/bigbearoutthere/)**  
-- Flickr: **[@bigbearoutthere](https://www.flickr.com/photos/michaelcgumtow/)** 
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=michaelgumtow&label=Profile%20views&color=7aa2f7&style=flat" alt="profile views" />
