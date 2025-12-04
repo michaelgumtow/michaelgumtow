@@ -103,7 +103,7 @@ Alongside software development and photography, I volunteer as a coach and board
   <img src="assets/sample_flyer.png" alt="Tryout Flyer" width="200"/>
 </p>
 
-👉 [View my Coaching Creative Portfolio](https://github.com/YourUsername/coaching-projects)
+👉 [View my Coaching Creative Portfolio](https://github.com/michaelgumtow/coaching-projects)
 
 ## 🌐 Find me around the web
 
