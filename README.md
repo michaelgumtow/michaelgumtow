@@ -71,6 +71,7 @@ I give back to my local community as a board member and coach for the Berlin You
 <p align="center">
   <img src="https://raw.githubusercontent.com/michaelgumtow/michaelgumtow/main/assets/header_banner.jpg" alt="Astrophotography banner by Michael Gumtow" width="100%" />
 </p>
+
 - Portfolio / Prints: **[big-bear-photo.com](https://www.big-bear-photo.com/)**
 
 ### 📸 Cameras  
