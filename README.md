@@ -101,6 +101,7 @@ Alongside software development and photography, I volunteer as a coach and board
   <img src="https://github.com/michaelgumtow/coaching-projects/blob/main/BYBS%20Logo%20Stickers/BYBS-Softball-1.png" alt="Sample Logo" width="200"/> 
   <img src="https://github.com/michaelgumtow/coaching-projects/blob/main/Scorpions%20Season%20Countdown%20-%20Cora.jpeg" alt="Training Guide" width="200"/>
   <img src="https://github.com/michaelgumtow/coaching-projects/blob/main/Scorpions%20Try%20Outs%201.jpeg" alt="Tryout Flyer" width="200"/>
+  <img src="https://github.com/michaelgumtow/coaching-projects/blob/main/Scorpions%20Fondy%20Fusion%20Fall%202024%20Tourney%202.png" alt="Fall Tourney" width="200"/>
 </p>
 
 👉 [View my Coaching Creative Portfolio](https://github.com/michaelgumtow/coaching-projects)
