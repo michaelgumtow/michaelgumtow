@@ -97,7 +97,7 @@ Alongside software development and photography, I volunteer as a coach and board
 - 📱 **Social Media Content** → Player introduction posts, tournament highlights, and tryout flyers  
 - 📢 **Community Engagement** → Flyers and visuals that boosted attendance and participation  
 
-<p align="center">
+<p>
   <img src="https://github.com/michaelgumtow/coaching-projects/blob/main/BYBS%20Logo%20Stickers/BYBS-Softball-1.png" alt="Sample Logo" width="200"/> 
   <img src="https://github.com/michaelgumtow/coaching-projects/blob/main/Scorpions%20Season%20Countdown%20-%20Cora.jpeg" alt="Training Guide" width="200"/>
   <img src="https://github.com/michaelgumtow/coaching-projects/blob/main/Scorpions%20Try%20Outs%201.jpeg" alt="Tryout Flyer" width="200"/>
